@@ -21,5 +21,10 @@ Also, check local container console:
 
 <img width="1336" alt="Screenshot 2024-06-08 at 4 20 12 PM" src="https://github.com/SHSKGIT/terraform_docker_demo/assets/23388907/887b3e9f-f290-42ce-b18d-26be74721f01">
 
+You can also use graph to make resouces visualized:
+terraform graph | dot -Tsvg > graph.svg
+<img width="1655" alt="Screenshot 2024-06-09 at 2 15 54 PM" src="https://github.com/SHSKGIT/terraform_docker_demo/assets/23388907/9928f2e9-ba44-4ef8-876f-90902e267019">
+
+
 
 You are done \\^.^/
